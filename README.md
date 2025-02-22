@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, my name is Jurgen 👋
 
-<!--
-**jurgen-kluft/jurgen-kluft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and enjoy working on a variety of projects. Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about anything related to C++, C#, Go, data structures, and software architecture.
+
+## My GitHub Stats
+
+![Jurgen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurgen-kluft&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jurgen-kluft&layout=compact&theme=radical)
+
+## Projects
+
+Here are some of my notable C++ repositories:
+
+### [ccode](https://github.com/jurgen-kluft/ccode)
+C++ package manager and project files generator.
+
+### [ccore](https://github.com/jurgen-kluft/ccore)
+The core C++ library.
+
+### [cbase](https://github.com/jurgen-kluft/cbase)
+The base C++ library build upon ccore.
+
+### [csuperalloc](https://github.com/jurgen-kluft/csuperalloc)
+A virtual memory allocator C++ library.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/jurgen-kluft)
