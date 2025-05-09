@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 
 ## About Me
 
-- 💬 Ask me about anything related to C++, C#, Go, data structures, and software architecture.
+- 💬 Ask me about anything related to C, C++, C#, Go, data structures, and software architecture.
 
 ## My GitHub Stats
 
