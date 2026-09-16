@@ -6,7 +6,7 @@ Welcome to my profile! I am a software engineer passionate about system-level pr
 
 ![C](https://img.shields.io/badge/C-The_C_programming_language-blue)  
 ![C++]([https://shields.io](https://img.shields.io/badge/C++-The_C++_programming_language-blue))  
-![C#](https://img.shields.io/badge/C#-The_C#,_.Net_programming_language_and_framework-blue)  
+![C#](https://img.shields.io/badge/C#-The_C#_dotNet_programming_language_and_framework-blue)  
 ![Go](https://img.shields.io/badge/Go-The_Golang_programming_language-blue)  
 
 - **Architecture:** Software Architecture, Advanced Data Structures, Low-Level Optimization
