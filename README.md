@@ -4,8 +4,7 @@ Welcome to my profile! I am a software engineer passionate about system-level pr
 
 ## 🛠️ Technologies & Skills
 
-- https://img.shields.io/badge/C-The_C_language-blue
-![C](https://shields.io)
+![C](https://img.shields.io/badge/C-The_C_language-blue)
 ![C++](https://shields.io)
 ![C#](https://shields.io)
 ![Go](https://shields.io)
